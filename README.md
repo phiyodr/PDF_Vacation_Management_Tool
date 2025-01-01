@@ -40,7 +40,7 @@ pip install pymupdf pandas matplotlib
 ```
 
 
-## Personal Configuration
+### Personal Configuration
 
 To tailor the tool to your requirements:
 
