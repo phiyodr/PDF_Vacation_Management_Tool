@@ -1,0 +1,10 @@
+{
+    "text_positions": [
+        {"x": 100, "y": 245, "type": "from_date"},
+        {"x": 240, "y": 245, "type": "to_date"},
+        {"x": 400, "y": 245, "type": "days"},
+        {"x": 230, "y": 335, "type": "sign_date"}
+    ],
+    "Prefix": "Urlaubsantrag",
+    "Postfix": "FamilyName"
+}
