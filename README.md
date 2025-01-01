@@ -45,10 +45,12 @@ pip install pymupdf pandas matplotlib
 To tailor the tool to your requirements:
 
  1.   Update the PDF Template
- 	* Replace the `data/template.pdf` with your preferred vacation request template.
+
+* Replace the `data/template.pdf` with your preferred vacation request template.
 
  2.  Set Vacation Entitlement
-    * Modify `data/vacation_entitlement.json` to match your yearly vacation entitlement.
+
+* Modify `data/vacation_entitlement.json` to match your yearly vacation entitlement.
         
 Example:
 
@@ -81,8 +83,9 @@ Example:
             {"x": 230, "y": 335, "type": "sign_date"}
         ]
 ```
-*     State and School Holidays
-        Update `data/state_vacations.csv` and `data/school_vacations.csv` with the holidays relevant to your location.
+
+* State and School Holidays
+	* Update `data/state_vacations.csv` and `data/school_vacations.csv` with the holidays relevant to your location.
 
 ## Usage
 
